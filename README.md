@@ -19,7 +19,7 @@ To get started with the MyCv project, follow these steps:
 1. Open the terminal.
 1. Type the following command:
 
-git clone https://github.com/victormashego1/MyCV.git
+`git clone https://github.com/victormashego1/MyCV.git`
 
 This will clone the project to your local machine.
 
